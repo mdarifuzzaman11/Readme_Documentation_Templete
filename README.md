@@ -76,7 +76,7 @@ MD Arifuzzaman
 
 ## Version History
 
-* 0.0.1
+* 1.0.0
     * Initial Release
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
